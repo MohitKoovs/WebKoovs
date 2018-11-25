@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33275" started-at="2018-11-22T11:40:14Z" finished-at="2018-11-22T11:40:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33275" started-at="2018-11-22T11:40:14Z" finished-at="2018-11-22T11:40:48Z">
+      <class name="com.koovs.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="setUp" is-config="true" duration-ms="11005" started-at="2018-11-22T17:10:15Z" finished-at="2018-11-22T17:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NavigateHomePageTest()[pri:1, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="NavigateHomePageTest" duration-ms="24" started-at="2018-11-22T17:10:26Z" finished-at="2018-11-22T17:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="1400" started-at="2018-11-22T17:10:26Z" finished-at="2018-11-22T17:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="setUp" is-config="true" duration-ms="9538" started-at="2018-11-22T17:10:27Z" finished-at="2018-11-22T17:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTitleTest()[pri:2, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="HomePageTitleTest" duration-ms="12" started-at="2018-11-22T17:10:36Z" finished-at="2018-11-22T17:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="1497" started-at="2018-11-22T17:10:36Z" finished-at="2018-11-22T17:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="setUp" is-config="true" duration-ms="8367" started-at="2018-11-22T17:10:38Z" finished-at="2018-11-22T17:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="KoovsLogoImageTest()[pri:3, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="KoovsLogoImageTest" duration-ms="73" started-at="2018-11-22T17:10:46Z" finished-at="2018-11-22T17:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KoovsLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.koovs.qa.testcases.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="1328" started-at="2018-11-22T17:10:46Z" finished-at="2018-11-22T17:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.koovs.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
